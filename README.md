@@ -1,3 +1,3 @@
-# Lab 2
+# TCP Client v2
 
-http://ecenetworking.byu.edu/493r/labs/lab-2/
+https://ecenetworking.byu.edu/426/labs/tcp-client-v2/
